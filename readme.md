@@ -185,7 +185,7 @@ _Response (200)_
 }
 ```
 
-_Response (404)_
+_Response (404 - Stock < 1)_
 
 ```
 {
