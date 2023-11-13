@@ -154,7 +154,7 @@ _Response (404)_
 
 ### PUT /all/:bookstore/:genre/:name
 
-> Update by name
+> Update Stock
 
 _Request Params_
 
